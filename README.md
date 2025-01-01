@@ -30,7 +30,7 @@ Make sure you have the following installed on your machine:
 2. Clone the repository:
 
    ```bash
-   git clone https://github.com/ARK018/React-Tailwind-Template.git
+   git clone https://github.com/ARK018/React-Tailwind-Shadcn-Template.git
    ```
 
 3. Install dependencies:
